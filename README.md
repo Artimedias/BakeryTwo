@@ -16,9 +16,8 @@ Visual Studio, dotnet, C#, Gitbash.
 ###Setup/Installation: 
 1) Clone this repository to wherever you wish 
 2) Then navigate to the installation with your preferred terminal. 
-3) Enter the Store.Tests folder and run dotnet restore
-3a) To run the tests, enter dotnet tests
-4) Go back to the main folder and enter the store folder
+3) Go into the Store.Tests folder and run dotnet test to use the tests
+4) Return to the main folder and enter the store folder. Then enter dotnet run.
 5) Run dotnet run and follow the prompts to simulate being an employee in a bakery.
 
 ###Known Bugs: 
