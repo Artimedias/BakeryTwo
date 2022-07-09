@@ -84,9 +84,8 @@ class bakery
         if (checker == true)
         {
             int cookie = int.Parse(input);
-            Console.WriteLine(cookie);
             cookieThing CookieCost = new cookieThing();;
-            price = price + (CookieCost.monster(cookie, price));
+            price = (CookieCost.monster(cookie, price));
             Finish(user, price);
         }
         else
