@@ -94,3 +94,7 @@ E:\Codenstuff\Store.Solution\Store.Tests\obj\Debug\net5.0\refint\Store.Tests.dll
 E:\Codenstuff\Store.Solution\Store.Tests\obj\Debug\net5.0\Store.Tests.pdb
 E:\Codenstuff\Store.Solution\Store.Tests\obj\Debug\net5.0\Store.Tests.genruntimeconfig.cache
 E:\Codenstuff\Store.Solution\Store.Tests\obj\Debug\net5.0\ref\Store.Tests.dll
+E:\Codenstuff\Store.Solution\Store.Tests\bin\Debug\net5.0\Store.deps.json
+E:\Codenstuff\Store.Solution\Store.Tests\bin\Debug\net5.0\Store.runtimeconfig.json
+E:\Codenstuff\Store.Solution\Store.Tests\bin\Debug\net5.0\Store.runtimeconfig.dev.json
+E:\Codenstuff\Store.Solution\Store.Tests\bin\Debug\net5.0\Store.exe

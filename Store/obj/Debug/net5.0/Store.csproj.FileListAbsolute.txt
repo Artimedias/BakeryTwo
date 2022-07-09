@@ -10,3 +10,7 @@ E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\Store.dll
 E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\refint\Store.dll
 E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\Store.pdb
 E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\ref\Store.dll
+E:\Codenstuff\Store.Solution\store\bin\Debug\net5.0\Store.exe
+E:\Codenstuff\Store.Solution\store\bin\Debug\net5.0\Store.runtimeconfig.json
+E:\Codenstuff\Store.Solution\store\bin\Debug\net5.0\Store.runtimeconfig.dev.json
+E:\Codenstuff\Store.Solution\store\obj\Debug\net5.0\Store.genruntimeconfig.cache

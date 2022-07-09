@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Codenstuff\\Store.Solution\\Store\\Store.csproj",
+      "projectUniqueName": "E:\\Codenstuff\\Store.Solution\\store\\Store.csproj",
       "projectName": "Store",
-      "projectPath": "E:\\Codenstuff\\Store.Solution\\Store\\Store.csproj",
+      "projectPath": "E:\\Codenstuff\\Store.Solution\\store\\Store.csproj",
       "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-      "outputPath": "E:\\Codenstuff\\Store.Solution\\Store\\obj\\",
+      "outputPath": "E:\\Codenstuff\\Store.Solution\\store\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,6 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
