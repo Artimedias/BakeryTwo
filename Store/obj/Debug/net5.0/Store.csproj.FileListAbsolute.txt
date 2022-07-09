@@ -1,0 +1,12 @@
+E:\Codenstuff\Store.Solution\Store\bin\Debug\net5.0\Store.deps.json
+E:\Codenstuff\Store.Solution\Store\bin\Debug\net5.0\Store.dll
+E:\Codenstuff\Store.Solution\Store\bin\Debug\net5.0\Store.pdb
+E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\Store.csproj.AssemblyReference.cache
+E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\Store.AssemblyInfoInputs.cache
+E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\Store.AssemblyInfo.cs
+E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\Store.csproj.CoreCompileInputs.cache
+E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\Store.dll
+E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\refint\Store.dll
+E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\Store.pdb
+E:\Codenstuff\Store.Solution\Store\obj\Debug\net5.0\ref\Store.dll
