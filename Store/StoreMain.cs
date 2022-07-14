@@ -54,17 +54,8 @@ class bakery
         if (checker == true)
         {
             int bread = int.Parse(input);
-            if ((bread % 3) == 2)
-            {
-                Console.WriteLine("Let them know that they can get another loaf of bread at no extra charge");
-                Console.WriteLine("Did they want the extra loaf? Hit y for yes, n for no");
-                string extra = Console.ReadLine();
-                if(extra == "y")
-                {
-                    bread = bread + 1;
-                }
-            }
             LoafThing LoafCost = new LoafThing();
+            bread = LoafCost.Discount(bread, " ");
             int price = (LoafCost.oven(bread, 0));
             Console.WriteLine("How many cookies did they buy, " + user + "?");
             Sweet(user, price);
@@ -84,9 +75,16 @@ class bakery
         if (checker == true)
         {
             int cookie = int.Parse(input);
-            cookieThing CookieCost = new cookieThing();;
-            price = (CookieCost.monster(cookie, price));
+            if (cookie > 0)
+            {
+            cookieThing Cookie = new cookieThing("0", cookie, price);
+            Console.WriteLine("Ask them what type of cookie they want, then enter \n 0) for any type \n 1) for Chocolate Chip \n 2) for Smores \n 3) for SnickerDoodles \n 4) for Macadamia nut");
+            Cookie.flavortown = Console.ReadLine();
+            Cookie.monster = Cookie.HowMany;
+            price = Cookie.monster;
+            Console.WriteLine(Cookie.flavortown);
             Finish(user, price);
+            }
         }
         else
         {

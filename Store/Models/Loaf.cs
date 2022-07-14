@@ -31,5 +31,24 @@ namespace LoafMath
             }
             return price;
         }
+
+        public int Discount(int a, string extra)
+        {
+            if ((a % 3) == 2)
+            {
+                Console.WriteLine("Let them know that they can get another loaf of bread at no extra charge");
+                Console.WriteLine("Did they want the extra loaf? Hit y for yes, n for no");
+                if (extra == " ")
+                { 
+                extra = Console.ReadLine();
+                }
+                if (extra == "y")
+                {
+                    a = a + 1;
+                }
+
+            }
+            return a;
+        }
     }
 }

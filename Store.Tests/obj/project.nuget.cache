@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IgV6ctWWqdP8e+oD3bC82xICuBJk9hHUup3oShdk/kI520SKQusKyv+WP2PDyHhothGn3ERhLwT/lHVXu/qSgg==",
+  "dgSpecHash": "x+C1PVXokwd5t4mA67ckuOPuUdmUwY0fKojjUwtXkE6JxCoGy9ZOf7FuFb39es4RI5ilZc3Y5U2/17NF5d3kFA==",
   "success": true,
-  "projectFilePath": "E:\\Codenstuff\\Store.Solution\\Store.Tests\\Store.Tests.csproj",
+  "projectFilePath": "E:\\CodeNstuff\\Store.solution\\Store.Tests\\Store.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brett\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\brett\\.nuget\\packages\\microsoft.net.test.sdk\\15.0.0\\microsoft.net.test.sdk.15.0.0.nupkg.sha512",

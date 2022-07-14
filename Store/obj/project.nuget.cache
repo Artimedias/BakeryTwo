@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2BWxwzAynSo+xtHSET9j2gy8bIWzBKwts5HAzuVp128FxlmD0LAZy3W1QbcwOkNLY8ZFNBWGVzEweX4dh2/jMg==",
+  "dgSpecHash": "wHbg5tTsEzbI9jZSaH601N3h/VsbRWn2zCsB31C9KFdxhMKZUnf4bFR/WXYrRSON8PZlaUecNUT+Bpqii+CLUg==",
   "success": true,
-  "projectFilePath": "E:\\Codenstuff\\Store.Solution\\Store\\Store.csproj",
+  "projectFilePath": "E:\\CodeNstuff\\Store.solution\\store\\Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brett\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

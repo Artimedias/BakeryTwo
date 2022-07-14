@@ -6,8 +6,27 @@ namespace cookieMath
 {
     public class cookieThing
     {
-        public int monster(int food, int price)
-        {      
+    private int price;
+    private string CookieFlavors;
+
+    public int HowMany { get; set; }
+
+
+    public cookieThing(string a, int b, int c)
+        {
+            CookieFlavors = a; 
+            HowMany = b;
+            price = c;  
+        }
+        public int monster
+        { 
+        get
+        {
+            return price;
+        }
+           set
+        {
+        int food = value; 
             while (food > 0)
             { 
                 if (food >= 3)
@@ -29,7 +48,34 @@ namespace cookieMath
                     food = 0;
                 }
             }
-            return price;
+        }
+        }
+        public string flavortown
+        {
+            get
+            {
+                return "Make sure that you got " + CookieFlavors + " cookies like they asked for.";
+            }
+            set
+            {
+                var rand = new Random();
+                int a = int.Parse(value);
+                if(a == 0)
+                {
+                    a = a + rand.Next(1, 5);
+                }
+                    switch(a)
+                    {
+                        case 1: CookieFlavors = "Chocolate Chip";
+                            break;
+                        case 2: CookieFlavors = "Smores";
+                            break;
+                        case 3: CookieFlavors = "SnickerDoodle";
+                            break;
+                        case 4: CookieFlavors = "Macadamia Nut";
+                            break;
+                    }
+            }
         }
     }
 }

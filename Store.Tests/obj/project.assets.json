@@ -6709,11 +6709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Codenstuff\\Store.Solution\\Store.Tests\\Store.Tests.csproj",
+      "projectUniqueName": "E:\\CodeNstuff\\Store.solution\\store.tests\\Store.Tests.csproj",
       "projectName": "Store.Tests",
-      "projectPath": "E:\\Codenstuff\\Store.Solution\\Store.Tests\\Store.Tests.csproj",
+      "projectPath": "E:\\CodeNstuff\\Store.solution\\store.tests\\Store.Tests.csproj",
       "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-      "outputPath": "E:\\Codenstuff\\Store.Solution\\Store.Tests\\obj\\",
+      "outputPath": "E:\\CodeNstuff\\Store.solution\\store.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6734,8 +6734,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Codenstuff\\Store.Solution\\Store\\Store.csproj": {
-              "projectPath": "E:\\Codenstuff\\Store.Solution\\Store\\Store.csproj"
+            "E:\\CodeNstuff\\Store.solution\\Store\\Store.csproj": {
+              "projectPath": "E:\\CodeNstuff\\Store.solution\\Store\\Store.csproj"
             }
           }
         }
